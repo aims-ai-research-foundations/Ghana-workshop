@@ -42,7 +42,7 @@ Each session's slide deck is committed **inside its own folder** once frozen on 
 
 The Course Labs open directly in Google Colab — no local setup required. A badge appears here for each day's notebook as its Ghana copy is frozen and committed:
 
-- **Day 1 · Course 2 — Small Embeddings and Similarity** — coming soon
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Ghana-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
 - **Day 2 · Course 3 — Neural Network Training & Overfitting** — coming soon
 - **Day 3 · Course 4 — A Transformer in 60 Minutes** — coming soon
 - **Day 4 · Course 5 — Fine-Tuning a Layer with LoRA** — coming soon
